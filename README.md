@@ -33,7 +33,7 @@ Follow these steps to set up the project:
 
 Check out the demo below to see the gallery in action:
 
-![Demo GIF](https://github.com/kiran-immanni/Scattered-Photo-Gallery/blob/master/Output/Scattered-Photo-Gallery.gif)
+![Demo MP4](https://github.com/kiran-immanni/Scattered-Photo-Gallery/blob/3d28d781cc765b25399b644099cc5e5c0891fc93/Output/Scattered-Photo-Gallery.gif)
 
 ## Usage
 
